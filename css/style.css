@@ -19,12 +19,21 @@ html {
 svg{
   max-width:100%;
   visibility:hidden;
- 
+
 }
 
-#WorkArea:hover {
+#Diagram_Area:hover {
 	cursor: pointer;
-  fill: red;
 }
 
+/* Some code to make text on load invisible*/
 
+h1{
+  color: white;
+  font-size: 100%;
+}
+
+a{
+  color: white;
+  font-size: 100%;
+}

@@ -57,7 +57,8 @@ TweenMax.set(container, {
   yPercent: -50
 })
 TweenMax.set('svg', {
-  visibility:'visible'
+  visibility:'visible',
+  scale: 1.5
 })
 
 //Set some variables for initial layout

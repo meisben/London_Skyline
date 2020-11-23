@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/benisme/pen/zdbwME.
+A repository for a personal website hosted on github pages.
+
+You can find the link to the website here: [www.benisme.com](www.benisme.com)
 
  
